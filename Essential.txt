@@ -1,0 +1,6 @@
+psutil
+pynput
+colorama
+speedtest-cli
+matplotlib
+tkinter
